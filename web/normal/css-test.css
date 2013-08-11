@@ -1,0 +1,12 @@
+.op-test {
+    width: 100px;
+    height: 100px;
+    background: #080;
+    margin: 10px;
+    opacity: 0.5;
+    transition-property: opacity;
+}
+
+.op-test:hover {
+    opacity: 1;
+}
